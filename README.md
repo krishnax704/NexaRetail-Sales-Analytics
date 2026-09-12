@@ -402,7 +402,7 @@ The cleaned, validated data this pipeline produces feeds directly into `NexaReta
 
 ### Dashboard 1 — Overview: Sales, Profit & Margin
 
-![NexaRetail Homepage](Dashboards/01%20-%20Homepage.png)
+![image alt](https://github.com/krishnax704/NexaRetail-Sales-Analytics/blob/0aa9a27334e92dc9dfccfd0994ab0bfb2674e9e8/Dashboards/02-Overview.png)
 
 - **2023 → 2024** was a step down: sales fell 2.11% and profit fell a sharper 6.09%, even as order count *rose* 1.62% — a sign of shrinking basket size and margin pressure rather than weaker demand.
 - **2024 → 2025** was a recovery driven by a different mechanism: sales rebounded 1.26% and profit jumped 5.66% to a 3-year-high margin of 14.90%, but with 3.34% *fewer* orders. Growth came from richer orders, not more of them.
