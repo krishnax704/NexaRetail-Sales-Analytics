@@ -59,8 +59,8 @@ Sales and profit dipped in 2024 and rebounded in 2025, but the 2025 rebound came
 
 ## 🗂️ Dashboard 1 — Overview: Sales, Profit & Margin
 
-![image alt](https://github.com/krishnax704/NexaRetail-Sales-Analytics/blob/b82ec32e38047658bd66a16c75e5ca8bcf3dcbe7/Dashboards/01-Homepage.png)
-**Theme:** *The company-wide V-shape and what drove it.*
+![image alt](https://github.com/krishnax704/NexaRetail-Sales-Analytics/blob/6a70c4dcb63f2b2b95161f215fcae0ce45ee6690/Dashboards/02-Overview.png)
+ *The company-wide V-shape and what drove it.*
 
 ### What Happened
 
@@ -84,7 +84,8 @@ Sales and profit dipped in 2024 and rebounded in 2025, but the 2025 rebound came
 
 ## 🧮 Dashboard 2 — Product & Profitability Analysis
 
-**Theme:** *Where losses hide, and why discounting is dangerous.*
+
+*Where losses hide, and why discounting is dangerous.*
 
 ### What Happened
 
