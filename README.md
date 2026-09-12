@@ -83,7 +83,7 @@ Sales and profit dipped in 2024 and rebounded in 2025, but the 2025 rebound came
 ---
 
 ## 🧮 Dashboard 2 — Product & Profitability Analysis
-
+![image alt](https://github.com/krishnax704/NexaRetail-Sales-Analytics/blob/018891ec3ad192e32f3ae7c6414c55693da6a067/Dashboards/03-Product%20%26%20Profitability.png)
 
 *Where losses hide, and why discounting is dangerous.*
 
