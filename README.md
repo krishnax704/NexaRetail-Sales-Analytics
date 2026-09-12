@@ -402,6 +402,8 @@ The cleaned, validated data this pipeline produces feeds directly into `NexaReta
 
 ### Dashboard 1 — Overview: Sales, Profit & Margin
 
+![NexaRetail Homepage](Dashboards/01%20-%20Homepage.png)
+
 - **2023 → 2024** was a step down: sales fell 2.11% and profit fell a sharper 6.09%, even as order count *rose* 1.62% — a sign of shrinking basket size and margin pressure rather than weaker demand.
 - **2024 → 2025** was a recovery driven by a different mechanism: sales rebounded 1.26% and profit jumped 5.66% to a 3-year-high margin of 14.90%, but with 3.34% *fewer* orders. Growth came from richer orders, not more of them.
 - **Technology** swung from Rs. 148.97M (2023) → Rs. 140.79M (2024) → Rs. 149.52M (2025), tracking the company-wide V-shape almost exactly and explaining most of 2024's decline.
