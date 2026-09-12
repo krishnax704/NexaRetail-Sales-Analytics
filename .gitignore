@@ -1,0 +1,5 @@
+﻿logs/
+rejected_quantity_records.csv
+rejected_order_dates.csv
+sales_data_cleaned.csv
+sales_analytics_pipeline.py
